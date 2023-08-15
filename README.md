@@ -1,15 +1,14 @@
-# Training Parallelism
+# Train Large Language Models on Multiple GPUs
 
+## Training Parallelism
 
+### Data Parallelism
 
-## Data Parallelism
+### Model Parallelism
 
-## Model Parallelism
+### Pipeline Parallelism
 
-## Pipeline Parallelism
-
-## Tensor Parallelism
-
+### Tensor Parallelism
 
 #### References
 
