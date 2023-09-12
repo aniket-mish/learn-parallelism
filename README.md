@@ -1,13 +1,10 @@
-# Train Large Language Models on Multiple GPUs
+# Techniques for Training Large Language Models on Multiple GPUs
 
 <img width="689" alt="Screenshot 2022-08-31 at 1 50 32 PM" src="https://github.com/aniket-mish/parallelism/assets/71699313/a5925986-5c7f-4875-ba5a-9678ed24d480">
-<figcaption>OpenAI</figcaption>
 
 <img width="940" alt="Screenshot 2022-08-31 at 1 51 35 PM" src="https://github.com/aniket-mish/parallelism/assets/71699313/02fe75a7-4a0a-4108-addc-d62aaf9bb226">
-OpenAI
 
 <img width="907" alt="Screenshot 2022-09-02 at 3 47 01 PM" src="https://github.com/aniket-mish/parallelism/assets/71699313/4828aa82-6fc6-4852-8a0f-5b51bb0b6fae">
-OpenAI
 
 #### References
 
