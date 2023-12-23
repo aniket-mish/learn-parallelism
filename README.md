@@ -16,4 +16,4 @@
 
 [3] https://huggingface.co/docs/transformers/perf_train_gpu_many
 
-[4] https://pytorch.org/tutorials/intermediate/ddp_tutorial.html
+[4] [GETTING STARTED WITH DISTRIBUTED DATA PARALLEL](https://pytorch.org/tutorials/intermediate/ddp_tutorial.html)
