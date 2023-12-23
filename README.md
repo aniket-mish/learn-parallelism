@@ -6,9 +6,13 @@
 
 <img width="907" alt="Screenshot 2022-09-02 at 3 47 01 PM" src="https://github.com/aniket-mish/parallelism/assets/71699313/4828aa82-6fc6-4852-8a0f-5b51bb0b6fae">
 
+PyTorch Distributed Data Parallel
+
+
+
 #### References
 
-[1] Weng, Lilian. (Sep 2021). [How to train really large models on many GPUs? Lil’Log](https://lilianweng.github.io/posts/2021-09-25-train-large/)
+[1] [How to train really large models on many GPUs? Lil’Log](https://lilianweng.github.io/posts/2021-09-25-train-large/)
 
 [2] https://openai.com/blog/techniques-for-training-large-neural-networks/
 
