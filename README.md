@@ -8,12 +8,14 @@
 
 ## PyTorch Distributed Data Parallel
 
+### Collective Communication
+
 ## References
 
 [1] [How to train really large models on many GPUs? Lil’Log](https://lilianweng.github.io/posts/2021-09-25-train-large/)
 
-[2] https://openai.com/blog/techniques-for-training-large-neural-networks/
+[2] [Techniques for training large neural networks](https://openai.com/blog/techniques-for-training-large-neural-networks/)
 
-[3] https://huggingface.co/docs/transformers/perf_train_gpu_many
+[3] [Efficient Training on Multiple GPUs](https://huggingface.co/docs/transformers/perf_train_gpu_many)
 
-[4] [GETTING STARTED WITH DISTRIBUTED DATA PARALLEL](https://pytorch.org/tutorials/intermediate/ddp_tutorial.html)
+[4] [Getting started with distributed data parallel](https://pytorch.org/tutorials/intermediate/ddp_tutorial.html)
